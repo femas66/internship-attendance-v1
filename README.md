@@ -1,6 +1,11 @@
-# pkl_attendance
+# Internship Attendance V1
 
-A new Flutter project.
+Aplikasi absensi magang
+
+## Version History
+
+* 1.0
+    * Initial Release
 
 ## Getting Started
 
